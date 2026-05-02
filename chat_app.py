@@ -4,7 +4,7 @@ import random
 def get_response(text):
     text_lower = text.lower().strip()
 
-    greetings = ["hi", "hello", "hey"]
+    greetings = ["hi", "hello", "hey" ,"nice to meet you"]
     goodbays = ["bye", "goodbye",  "see you later"]
     how_are_you = ["how are you","whats up", "how do you do"]
     thanks = ["thanks", "thank you", "thx",  "welcom"]
